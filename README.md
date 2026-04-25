@@ -109,7 +109,7 @@ My goal is to bring together banking domain expertise and modern data skills to 
 
 ## Connect With Me
 
-I am open to collaborations on **data analytics projects**, **banking domain datasets**, and **open-source financial data tools**. If you are in the EU financial services space — especially Luxembourg — I would love to connect.
+I am open to collaborations on **data analytics projects**, **banking domain datasets**, and **open-source financial data tools**. If you are in the financial services and fintech space I would love to connect.
 
 📧 **EdidiongAkpan4@gmail.com**
 🔗 **[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-URL)**
