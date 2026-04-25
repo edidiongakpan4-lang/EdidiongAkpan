@@ -7,10 +7,10 @@
 
 *Transforming financial operations through data insight, database management & information security*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edidiong-akpan007/)
 [![DataCamp](https://img.shields.io/badge/DataCamp_Portfolio-03EF62?style=flat&logo=datacamp&logoColor=black)](https://www.datacamp.com/portfolio/YOUR-PROFILE)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:EdidiongAkpan4@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=EdidiongAkpan&color=0A66C2&style=flat)
+
 
 </div>
 
