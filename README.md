@@ -21,10 +21,10 @@
 I am a **Chartered Banker (ACIB/CIBN)** with over **8 years of experience** in customer service, operations, compliance, and data governance at **FirstBank Nigeria Limited**. I am currently building expertise across three high-value disciplines:
 
 - **Data Analytics** — SQL, Power BI, Excel, data storytelling
-- **Database Management** — Azure SQL, IBM Db2, data architecture
-- **Data Security** — information security, GDPR compliance, risk management
+- **Database Management** — Azure, SQL
 
-My goal is to bring together banking domain expertise and modern data skills to deliver insight-led decisions in regulated financial environments — with a focus on the **European financial services market**.
+
+My goal is to bring together banking domain expertise and modern data skills to deliver insight-led decisions in regulated financial environments with a focus on the **European financial services market**.
 
 ---
 
@@ -37,11 +37,6 @@ My goal is to bring together banking domain expertise and modern data skills to 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
-**Security & Compliance**
-
-![ISC2](https://img.shields.io/badge/ISC²_CC-1A4A7A?style=flat&logoColor=white)
-![CompTIA](https://img.shields.io/badge/CompTIA_Security+-E20000?style=flat&logo=comptia&logoColor=white)
-![GDPR](https://img.shields.io/badge/GDPR_Compliance-003087?style=flat&logoColor=white)
 
 **Banking Domain**
 
@@ -119,7 +114,7 @@ I am open to collaborations on **data analytics projects**, **banking domain dat
 📧 **EdidiongAkpan4@gmail.com**
 🔗 **[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-URL)**
 📊 **[DataCamp Portfolio](https://www.datacamp.com/portfolio/YOUR-PROFILE)**
-📍 **Lagos, Nigeria → Luxembourg (target)**
+📍 **Lagos, Nigeria 
 
 ---
 
